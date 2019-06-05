@@ -1,6 +1,8 @@
 # Garbage-Day-Reminder
 Use AWS Lambda to send yourself SMS reminders about garbage day
 
+![Example of SMS reminder](smsExampleSmaller.jpg "It works!")
+
 ### Alternating garbage types
 Where I live we put out different types of garbage on differnt weeks. It switches back and forth between even & odd weeks. So, the code can also let you know which colour of bags to put out . 
 
